@@ -27,8 +27,33 @@ h3 {
     color: gray;
 }
 
+#columnist {
+    color: dodgerblue;
+}
+
+h5 {
+    color: gray;
+    margin-bottom: 10px;    
+}
+
 p {
+    margin-top: 15px;
+    margin-bottom: 15px;
     text-align: justify;
+}
+
+ul {
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.row-one {
+    
+}
+
+.row-two {
+    background-color: lightskyblue;
+    border-collapse: collapse;
 }
 
 .link {
@@ -38,7 +63,7 @@ p {
 }
 
 footer {
-    margin-left: 270px;
+    margin-left: 270px;   
 }
 
 #monitor {
