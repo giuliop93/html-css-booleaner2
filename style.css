@@ -4,3 +4,14 @@
     box-sizing: border-box;
 }
 
+header {
+    width: 100%;
+    background-color: dodgerblue;
+    background-image: url("img/pattern.png");
+    background-size: 30%;
+    height: 110px;
+}
+
+#logo {
+
+}
