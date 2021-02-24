@@ -13,5 +13,40 @@ header {
 }
 
 #logo {
+    margin-top: 35px;
+    margin-left: 270px;
+    width: 15%;
+}
 
+main {
+    margin-left: 270px;
+    margin-top: 15px;
+}
+
+h3 {
+    color: gray;
+}
+
+p {
+    text-align: justify;
+}
+
+.link {
+    color: white;
+    width: 250px;
+    height: 200px;
+}
+
+footer {
+    margin-left: 270px;
+}
+
+#monitor {
+    margin-top: 10px;
+    background-image: url("img/monitor.jpg");
+}
+
+#grafico {
+    margin-top: 10px;
+    background-image: url("img/graph.jpg");
 }
